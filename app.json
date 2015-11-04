@@ -1,0 +1,6 @@
+{
+	"name": "Gauche Playground on Heroku",
+	"env": {
+		"BUILDPACK_URL": "https://github.com/naduma/heroku-buildpack-gauche"
+	}
+}
